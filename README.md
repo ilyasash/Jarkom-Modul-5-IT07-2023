@@ -23,7 +23,7 @@ Praktikum Modul 5 Jaringan Komputer - **IT07**
 
 ## Pembagian IP
 <p align="center">
-    <img src="https://i.ibb.co/wszLsR3/image.png">
+    <img src="https://i.ibb.co/0KfC77L/Screenshot-2023-12-20-160656.png">
 
 
 ## Config
